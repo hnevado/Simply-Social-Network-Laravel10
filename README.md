@@ -9,6 +9,6 @@
 
 <p>Primer proyecto con laravel 10. Se utilizó breeze para el login y debugbar para optimizar las queries</p>
 
-<p><img src="https://github.com/hnevado/Simply-Social-Network-Laravel10/lob/master/public/img/login.png"></p>
-<p><img src="https://github.com/hnevado/Simply-Social-Network-Laravel10/lob/master/public/img/dashboard.png"></p>
-<p><img src="https://github.com/hnevado/Simply-Social-Network-Laravel10/lob/master/public/img/principal.png"></p>
+<p><img src="https://github.com/hnevado/Simply-Social-Network-Laravel10/blob/master/public/img/login.png"></p>
+<p><img src="https://github.com/hnevado/Simply-Social-Network-Laravel10/blob/master/public/img/dashboard.png"></p>
+<p><img src="https://github.com/hnevado/Simply-Social-Network-Laravel10/blob/master/public/img/principal.png"></p>
